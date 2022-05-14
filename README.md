@@ -4,6 +4,8 @@ Hi 👋 My name is Ahmed
 Full-stack web developer
 ------------------------
 
+*🌱 A 1st-year Software engineering student from Egypt who work's as a full-stack developer and a UI designer.
+
 * 🌍  I'm based in RUSSIA
 * 🖥️  See my portfolio at [My Portfolio](http://ahmedelsaid.netlify.app/)
 * ✉️  You can contact me at [abrabou@yandex.ru](mailto:abrabou@yandex.ru)
