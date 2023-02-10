@@ -8,7 +8,7 @@ Full-stack developer
 
 * 🌍  I'm based in RUSSIA
 * 🖥️  See my portfolio at [My Portfolio](https://a0-0.github.io/Ahmed-elsaid/)
-* ✉️  You can contact me at [abrabou@yandex.ru](mailto:ahmed@abdrabou.ru)
+* ✉️  You can contact me at [ahmed@abdrabou.ru](mailto:ahmed@abdrabou.ru)
 * 🧠  I'm learning GatsbyJS
 * 🤝  I'm open to collaborating on Instagram
 
