@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmed
 Full-stack developer
 ------------------------
 
-* 🌱 A 1st-year Software engineering student from Egypt who work's as a full-stack developer and a UI designer.
+* 🌱 Software engineering from Egypt who work's as a full-stack developer and a UI designer.
 
 * 🌍  I'm based in RUSSIA
 * 🖥️  See my portfolio at [My Portfolio](https://a0-0.github.io/Ahmed-elsaid/)
