@@ -1,7 +1,9 @@
-Hi 👋 My name is Ahmed
+Hi 👋
 =========================
 
 Full-stack developer
+------------------------
+Web3 developer
 ------------------------
 
 * 🌱 Software engineering from Egypt who work's as a full-stack developer and a UI designer.
